@@ -1,7 +1,7 @@
-# Fourier Transform and Beamforming Toolkit
+# Image-mixer-and-Beamforming
 
 ## 🚀 Introduction
-This project includes two major components: a **Fourier Transform (FT) Magnitude/Phase Mixer** and a **Beamforming Simulator**. These tools provide an interactive platform to explore signal decomposition and beamforming techniques, tailored for real-time applications in fields such as communications, medical imaging, and signal processing.
+This project includes two major components: a **Fourier Transform (FT) Image Mixerr** and a **Beamforming Simulator**. These tools provide an interactive platform to explore signal decomposition and beamforming techniques, tailored for real-time applications in fields such as communications, medical imaging, and signal processing.
 
 ---
 
