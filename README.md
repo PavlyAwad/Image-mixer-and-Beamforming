@@ -7,7 +7,7 @@ This project includes two major components: a **Fourier Transform (FT) Image Mix
 
 ## 🌟 Features
 
-### Part A: FT Magnitude/Phase Mixer
+### Part A: Image Mixer
 
 #### 🖼️ **1. Image Viewers**
 - **Grayscale Images**:
